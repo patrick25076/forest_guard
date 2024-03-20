@@ -1,0 +1,5 @@
+outs:
+- md5: 01e69ddc59985e514e0639216ac6be19
+  size: 12285551
+  hash: md5
+  path: best_float32.tflite
