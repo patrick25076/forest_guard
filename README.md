@@ -67,7 +67,16 @@ flutter run
 Ensure you are connected to an emulator or a real device. Contact me for the APK file if needed.
 
 ## License
-This project is licensed under the [CC BY-NC License](link_to_license_file). See the [LICENSE](link_to_license_file) file for details.
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## Room For Improvement
 - Enhance functionality by finding solutions for wood length without manual input.
